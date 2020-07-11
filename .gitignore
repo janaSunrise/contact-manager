@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.spyproject/
+
+venv/
+env/
+__pycache__/
+
+*.lock
+*.db
+*.sqlite3
+
+.DS_STORE
+
